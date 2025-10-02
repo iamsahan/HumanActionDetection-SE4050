@@ -4,9 +4,7 @@
 > This project implements a **Human Action Detection (HAD) system** trained on a dataset of 18,000+ images across 15 human activity classes.  
 > The goal is to build models that can classify human actions with high accuracy using state-of-the-art deep learning architectures.
 
----
-
-## 🚀 Algorithms Used
+## Algorithms Used
 
 | Algorithm              | Description                                                   |
 | ---------------------- | ------------------------------------------------------------- |
@@ -15,9 +13,7 @@
 | **EfficientNetV2**     | Optimized scalable CNN with high efficiency and accuracy      |
 | **InceptionResNetV2**  | Hybrid model combining Inception modules with residual blocks |
 
----
-
-## 👥 Team Members
+## Team Members
 
 | Name               | Student ID |
 | ------------------ | ---------- |
@@ -26,9 +22,7 @@
 | **Jayasuriya D S** | IT22261700 |
 | **Nirasha H M S**  | IT22128454 |
 
----
-
-## 📂 Dataset
+## Dataset
 
 - **Source:** [Kaggle – Human Action Detection Dataset](https://www.kaggle.com/datasets/emirhanai/human-action-detection-artificial-intelligence/data)
 - **Total Images:** ~18,000
@@ -49,15 +43,11 @@
   - Texting
   - Using Laptop
 
----
-
-## 🎥 Video Demonstration
+## Video Demonstration
 
 📌 **YouTube Link:** [Watch Presentation](https://youtu.be/cI9z4OogPXA)
 
----
-
-## 📊 Example Results (to be updated)
+## Example Results (to be updated)
 
 | Model              | Accuracy | Precision | Recall | F1-Score |
 | ------------------ | -------- | --------- | ------ | -------- |
@@ -65,7 +55,3 @@
 | DenseNet201        | XX%      | XX%       | XX%    | XX%      |
 | EfficientNetV2     | XX%      | XX%       | XX%    | XX%      |
 | InceptionResNetV2  | XX%      | XX%       | XX%    | XX%      |
-
----
-
-✨ _“Understanding human actions through AI to build a safer and smarter world.”_
