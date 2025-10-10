@@ -17,10 +17,14 @@ data/
 *.h5
 *.pkl
 
-# Model files
+# Model files (large files)
 models/*.h5
 models/*.pkl
 models/*.pt
+models/*.keras
+models/*.onnx
+models/*.joblib
+*.model
 
 # Logs
 *.log
